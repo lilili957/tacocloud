@@ -1,2 +1,2 @@
-greeting:
-  message: Everything is will be ok.
+server:
+  port: 8080
